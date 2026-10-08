@@ -1,8 +1,6 @@
 # TypeScript Basics
 
-Aqui reúno os exercícios e exemplos que faço enquanto estudo TypeScript. Vou adicionando os arquivos conforme aprendo novos conceitos e testo como funcionam na prática.
-
-Começo com exemplos básicos e, aos poucos, avanço para coisas mais completas.
+Repositório dedicado aos meus estudos de TypeScript, com exercícios e exemplos dos conceitos que estou aprendendo. Vou adicionando os arquivos conforme aprendo novos conceitos e testo como funcionam na prática.
 
 ## Conteúdos
 
